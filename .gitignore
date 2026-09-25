@@ -23,5 +23,5 @@ web_custom_versions/
 filtered-openapi.yaml
 uv.lock
 .comfy_environment
-config.bat
 node_modules
+
